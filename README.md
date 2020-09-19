@@ -1,5 +1,7 @@
-# Welcome on Inokufu opendata
+# Welcome on Inokufu Opendata Repository
 
-This repo hosts Inokufu's open source projects and open datasets.
+This repository hosts Inokufu's open source projects and open datasets.
 
-If you want to contribute and/or help us better understand the evolution of the Education and Professional Training industies, send us a message at [contact@inokufu.com](mailto:contact@inokufu.com)
+Here you'll find some of our datasets about the Education and Professional Training industies
+
+If you want to contribute and/or help us, send us a message at [contact@inokufu.com](mailto:contact@inokufu.com)
